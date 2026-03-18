@@ -13,8 +13,7 @@ import {
   LayoutDashboard,
   Mail,
   Settings,
-  Trash2,
-  UserRound
+  Trash2
 } from "lucide-react";
 
 type TabId = "overview" | "api" | "billing" | "settings" | "help";

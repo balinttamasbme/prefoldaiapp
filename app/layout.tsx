@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Prefold GEO Dashboard",
-  description: "Organic tech SaaS dashboard for Generative Engine Optimization"
+  title: "Prefold AI Account Area",
+  description: "Account area dashboard for managing your Prefold AI workspace"
 };
 
 export default function RootLayout({
